@@ -1,0 +1,2 @@
+sting1
+string2
